@@ -21,7 +21,6 @@
             <div class="generic-content">
                 <?php the_content() ?>
             </div>
-        </div>
 
-    <?php }
+        <?php }
     get_footer() ?>
